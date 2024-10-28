@@ -1,6 +1,8 @@
 # teacher-portal
 A teacher's portal for managing students and their marks.
 
+Whole project is made using HTML, CSS, Javascript and PHP. Tailwind CSS along with Bootstrap 5 were used for styling in some places.
+
 This is a student's management portal where you can manaage your student and their subject's marks.
 
 First you must get one password according to your username from admin. Then you can use it to login to the website.
