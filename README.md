@@ -11,6 +11,9 @@ To login, first start apache and mysql servers then you can go: http://localhost
 
 Once logged in, you can manage the students accordingly.
 
-Please use the username and password combination below for testing purposes:
+
+Please create the following tables in MySQL database: teachers and student_details.
+Alse you can use the username and password combination below for testing purposes:
+
 username: teachersubham
 password: school123
